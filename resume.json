@@ -1,0 +1,169 @@
+{
+    "basics":
+    {
+      "name": "Antoine Serre",
+      "label": "Software Engineer",
+      "email": "resume@aserre.me",
+      "url": "https://aserre.me",
+      "summary": "Creative software engineer with more than 9 years of experience in game development. Skilled at writing clear, efficient code that is easy to maintain and extend. Experienced working within small and big teams on various types of projects. Independent worker, able to work remotely or in-office as needed.",
+      "location":
+      {
+        "city": "Paris",
+        "countryCode": "FR"
+      }
+    },
+    "work":
+    [
+      {
+        "name": "Unity",
+        "position": "Software Engineer, Games Consultant",
+        "url": "https://unity.com",
+        "startDate": "2021-10",
+        "summary": "Unity Games Solutions member helping customers achieve their vision by providing multi-disciplinary expertise of the Unity game engine.",
+        "highlights":
+        [
+          "Optimized the server performance and memory footprint of a small multiplayer RPG to reduce their AWS costs by 70% using build time custom tooling",
+          "Lead the UI effort for a greenfield mobile game project, including a brand new data-binding library with fully serializable state and live reload",
+          "Worked with a team on a multi-year complete rewrite to Unity of the game client for a popular MMORPG written in AS3",
+          "Added native support for up to 8 controllers to the Untiy engine using the Windows.Gaming.Input API to help a client achieve performance targets while keeping feature parity"
+        ]
+      },
+      {
+        "name": "Ubisoft",
+        "position": "Software Engineer, Gameplay R&D",
+        "url": "https://www.ubisoft.com",
+        "startDate": "2014-09",
+        "endDate": "2020-06",
+        "summary": "Part of a small R&D editorial team promoting open-world systemic gameplay to production studios. It involved travelling abroad for missions (from 1 to 6 months).",
+        "highlights":
+        [
+          "Designed and implemented the fire, oil and poison systems in *Assassin's Creed: Origins*",
+          "Prototyped a spreading malware gameplay system for *Watch Dogs: Legion*",
+          "Consulted on systemic gameplay concepts for various projects, from general presentations to advanced design discussions and workshops",
+          "Developed a generic data analysis tool recording full sessions of gameplay in a memory compact, database friendly format. Used to compare worldlife metrics of several games",
+          "Prototyped navigation schemes in virtual reality with a focus on user experience and reduced motion sickness"
+        ]
+      },
+      {
+        "name": "Ubisoft",
+        "position": "Software Engineer Intern, R&D",
+        "url": "https://www.ubisoft.com",
+        "startDate": "2014-03",
+        "endDate": "2014-09",
+        "highlights":
+        [
+          "Developed innovative production tools based on projection mapping to help design the logic of open-world AAA games",
+          "Explored tools and techniques to improve mobile prototyping iteration speed"
+        ]
+      },
+      {
+        "name": "Spiders",
+        "position": "Software Engineer Intern, Tools & UI",
+        "url": "https://www.spiders-games.com",
+        "startDate": "2013-03",
+        "endDate": "2013-09",
+        "highlights":
+        [
+          "Developed a real-time debugging tool for character animation blending",
+          "Added UI logic and integrated assets for the game *Bound by Flames*"
+        ]
+      },
+      {
+        "name": "Eugen Systems",
+        "position": "Software Engineer Intern, Gameplay",
+        "url": "https://eugensystems.com",
+        "startDate": "2011-03",
+        "endDate": "2011-07",
+        "highlights":
+        [
+          "R&D for an advanced physics-based simulation systems for vehicles in *Wargame: European Escalation*",
+          "Worked on procedural animations for the 300+ mechanical units in the game"
+        ]
+      }
+    ],
+    "projects":
+    [
+      {
+        "name": "iota",
+        "startDate": "2020-09",
+        "description": "No-code toy game engine structured like a relational database, using array programming languages concepts",
+        "highlights":
+        [
+          "Homoiconic function definition and column-major array layout for efficient parallel execution",
+          "Unified extendable visual editor for code and data with customizable inspectors"
+        ]
+      }
+    ],
+    "education":
+    [
+      {
+        "institution": "Epitech Paris",
+        "area": "Information Technologies",
+        "url": "https://www.epitech.eu",
+        "startDate": "2009-10",
+        "endDate": "2013-06"
+      }
+    ],
+    "skills":
+    [
+      {
+        "name": "Technologies",
+        "keywords":
+        [
+          "C#",
+          "C++",
+          "C",
+          "HLSL",
+          "DirectX",
+          "Vulkan",
+          "OpenGL",
+          "Metal",
+          "WebGL",
+          "Node.js",
+          "HTML",
+          "CSS",
+          "Swift"
+        ]
+      },
+      {
+        "name": "Concepts",
+        "keywords":
+        [
+          "Entity Component Systems",
+          "Cache locality",
+          "Data-oriented programming",
+          "Data normalization",
+          "Parallel algorithms",
+          "Compute shaders",
+          "Intrinsics"
+        ]
+      },
+      {
+        "name": "Software",
+        "keywords":
+        [
+          "Unity3D",
+          "Visual Studio",
+          "Rider",
+          "XCode",
+          "Git",
+          "Perforce",
+          "PlasticSCM",
+          "JIRA",
+          "Blender",
+          "Photoshop"
+        ]
+      }
+    ],
+    "languages":
+    [
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "French",
+        "fluency": "Native speaker"
+      }
+    ]
+  }
