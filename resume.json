@@ -19,13 +19,13 @@
         "position": "Software Engineer, Games Consultant",
         "url": "https://unity.com",
         "startDate": "2021-10",
-        "summary": "Unity Games Solutions member helping customers achieve their vision by providing multi-disciplinary expertise of the Unity game engine.",
+        "summary": "Part of the Unity Games Solutions team providing customers with multi-disciplinary expertise of the Unity game engine.",
         "highlights":
         [
-          "Optimized the server performance and memory footprint of a small multiplayer RPG to reduce their AWS costs by 70% using build time custom tooling",
+          "Optimized the server performance and memory footprint of a small multiplayer RPG and reduced their AWS costs by 70% using build time custom tooling",
           "Lead the UI effort for a greenfield mobile game project, including a brand new data-binding library with fully serializable state and live reload",
-          "Worked with a team on a multi-year complete rewrite to Unity of the game client for a popular MMORPG written in AS3",
-          "Added native support for up to 8 controllers to the Untiy engine using the Windows.Gaming.Input API to help a client achieve performance targets while keeping feature parity"
+          "Worked on a multi-year full rewrite of the *Dofus* MMORPG game client written in AS3 to Unity",
+          "Added native support for up to 8 controllers to the Unity engine using the Windows.Gaming.Input API for the game *Gang Beasts* to help achieve performance targets while keeping feature parity"
         ]
       },
       {
@@ -86,7 +86,7 @@
       {
         "name": "iota",
         "startDate": "2020-09",
-        "description": "No-code toy game engine structured like a relational database, using array programming languages concepts",
+        "description": "No-code toy game engine structured like a relational database, using array programming language concepts",
         "highlights":
         [
           "Homoiconic function definition and column-major array layout for efficient parallel execution",
