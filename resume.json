@@ -5,7 +5,7 @@
       "label": "Software Engineer",
       "email": "resume@aserre.me",
       "url": "https://aserre.me",
-      "summary": "Creative software engineer with more than 9 years of experience in game development. Skilled at writing clear, efficient code that is easy to maintain and extend. Experienced working within small and big teams on various types of projects. Independent worker, able to work remotely or in-office as needed.",
+      "summary": "*Creative software engineer with more than 9 years of experience in game development. Skilled at writing clear, efficient code that is easy to maintain and extend. Experienced working within small and big teams on various types of projects. Independent worker, able to work remotely or in-office as needed.*",
       "location":
       {
         "city": "Paris",
@@ -84,9 +84,9 @@
     "projects":
     [
       {
-        "name": "iota",
+        "name": "Clay",
         "startDate": "2020-09",
-        "description": "No-code toy game engine structured like a relational database, using array programming language concepts",
+        "description": "Hobby game engine structured like a relational database, using array programming language concepts",
         "highlights":
         [
           "Homoiconic function definition and column-major array layout for efficient parallel execution",
@@ -98,7 +98,7 @@
     [
       {
         "institution": "Epitech Paris",
-        "area": "Information Technologies",
+        "area": "Expert in Information Technologies",
         "url": "https://www.epitech.eu",
         "startDate": "2009-10",
         "endDate": "2013-06"
@@ -153,17 +153,13 @@
           "Blender",
           "Photoshop"
         ]
-      }
-    ],
-    "languages":
-    [
-      {
-        "language": "English",
-        "fluency": "Fluent"
       },
       {
-        "language": "French",
-        "fluency": "Native speaker"
+        "name": "Languages",
+        "keywords": [
+          "French",
+          "English"
+        ]
       }
     ]
   }
