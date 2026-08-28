@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Antoine Serre",
+    "label": "Software Engineer",
+    "email": "resume@aserre.me",
+    "url": "https://resume.aserre.me",
+    "summary": "Creative software engineer with 12+ years of experience in game development. Skilled at writing clear, efficient code that is easy to maintain and extend. Experienced working within small and big teams on various game genres.",
+    "location": {
+      "city": "Paris",
+      "countryCode": "FR"
+    }
+  },
+  "work": [
+    {
+      "name": "Unity Technologies",
+      "position": "Senior Software Engineer (Consultant)",
+      "url": "https://unity.com",
+      "startDate": "2021-10",
+      "highlights": [
+        "Senior member of the [Unity Studio Productions](https://unity.com/solutions/unity-studio-productions) team (customer facing)",
+        "Worked on the Android version of [UNBEATABLE](https://en.wikipedia.org/wiki/Unbeatable_(video_game)). Optimized performance to run at 60fps. Moved the build pipeline to Addressables to enable Play Asset Delivery.",
+        "Helped port [Phasmophobia](https://en.wikipedia.org/wiki/Phasmophobia_(video_game)) to Xbox Series X and PS5, optimized overall performance and wrote CI/CD tools to interoperate with Unity Build Automation",
+        "Reduced loading times by 50% for [The Sandbox](https://en.wikipedia.org/wiki/The_Sandbox_(company)) metaverse project by hiding latency to the HTTP API using async tasks and multithreaded data processing",
+        "Optimized the server performance and memory footprint for [Book of Travels](https://en.wikipedia.org/wiki/Book_of_Travels) and reduced AWS server costs by 70% using build time custom tooling",
+        "Lead the UI effort for a mobile game project in pre-production and developed an innovative data-binding library with fully serializable state and live reload",
+        "Worked on a multi-year full rewrite of the [Dofus](https://en.wikipedia.org/wiki/Dofus) MMORPG from AS3 to Unity",
+        "Added native support for up to 8 controllers to the Unity engine using the Windows.Gaming.Input API to help [Gang Beasts](https://en.wikipedia.org/wiki/Gang_Beasts) achieve performance targets"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "position": "Gameplay Programmer (R&D)",
+      "url": "https://www.ubisoft.com",
+      "startDate": "2014-09",
+      "endDate": "2020-06",
+      "highlights": [
+        "Designed and implemented fire, oil and poison systems for [Assassin's Creed Origins](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins)",
+        "Prototyped a malware spreading gameplay system for [Watch Dogs: Legion](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion)",
+        "Consulted on systemic gameplay concepts for various projects, from general presentations to advanced design discussions and workshops",
+        "Developed a generic data analysis tool recording full sessions of gameplay in a memory compact, database friendly format. Used to compare worldlife metrics of several games (including some from the competition using modding tools)",
+        "Prototyped navigation schemes in virtual reality with a focus on user experience and reduced motion sickness"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "position": "Gameplay Programmer (Internship)",
+      "url": "https://www.ubisoft.com",
+      "startDate": "2014-03",
+      "endDate": "2014-09",
+      "highlights": [
+        "Developed innovative production tools using projection mapping and mobile devices to help design the logic of open-world AAA games",
+        "Explored tools and techniques to improve mobile prototyping iteration speed"
+      ]
+    },
+    {
+      "name": "Spiders",
+      "position": "Tools & UI Programmer (Internship)",
+      "url": "https://www.spiders-games.com",
+      "startDate": "2013-03",
+      "endDate": "2013-09",
+      "highlights": [
+        "Developed a real-time debugging tool for character animation blending",
+        "Added UI logic and integrated assets for the game [Bound by Flames](https://en.wikipedia.org/wiki/Bound_by_Flame)"
+      ]
+    },
+    {
+      "name": "Eugen Systems",
+      "position": "Gameplay Programmer (Internship)",
+      "url": "https://eugensystems.com",
+      "startDate": "2011-03",
+      "endDate": "2011-07",
+      "highlights": [
+        "R&D for an advanced physics-based simulation in [Wargame: European Escalation](https://en.wikipedia.org/wiki/Wargame:_European_Escalation)",
+        "Worked on procedural animations for the 300+ mechanical units in the game"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Inis Rún",
+      "type": "Narrative Puzzle Game",
+      "highlights": [
+        "Play as a small robot stranded on a mysterious island, trying to recover its memory by exploring it",
+        "Teaches programming through puzzles based on rune manipulation",
+        "Inspired by array oriented programming languages concepts (APL, UIUA)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Epitech Paris",
+      "area": "Expert in Information Technologies",
+      "url": "https://www.epitech.eu",
+      "startDate": "2009-10",
+      "endDate": "2013-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "C#",
+        "C++",
+        "C",
+        "Zig",
+        "Swift",
+        "HLSL",
+        "DirectX",
+        "Vulkan",
+        "OpenGL",
+        "Metal"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "Unity3D",
+        "Rider",
+        "XCode",
+        "Visual Studio",
+        "GitHub",
+        "Perforce",
+        "RenderDoc",
+        "Blender"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "ECS",
+        "Multithreading",
+        "Cache coherency",
+        "Profiling",
+        "Optimization",
+        "Debugging",
+        "Data normalization",
+        "Compute shaders"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "French (native)",
+        "English (fluent)"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Board Games",
+        "Photography",
+        "Digital arts"
+      ]
+    }
+  ]
+}
